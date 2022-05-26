@@ -1,2 +1,1 @@
-#!bash/bin/bash
-pwd
+all script discribesthe correct
